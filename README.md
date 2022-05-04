@@ -1,3 +1,5 @@
+The profile picture has been made with [triangulart](https://maxwellito.github.io/triangulart/).
+
 ```
  ______                  ______      ____/\                  /\____
 /      \________________/      \    _\     \_____/\/\/\_____/     /_
