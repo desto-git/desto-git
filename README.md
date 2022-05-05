@@ -1,4 +1,5 @@
 🐧 Manjaro | 🦊 Firefox | ✏️ VS Code <!---->   <!----> 🇩🇪 German | 🇺🇸 English | `</>` TypeScript <!---->   <!----> → Tab-indent aficionado
+<!-- https://www.compart.com/en/unicode/U+2003 -->
 
 ```
  ______                  ______      ____/\                  /\____
