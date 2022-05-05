@@ -1,4 +1,4 @@
-The profile picture has been made with [triangulart](https://maxwellito.github.io/triangulart/).
+🐧 Manjaro | 🦊 Firefox | ✏️ VS Code <!---->   <!----> 🇩🇪 German | 🇺🇸 English | `</>` TypeScript <!---->   <!----> → Tab-indent aficionado
 
 ```
  ______                  ______      ____/\                  /\____
@@ -16,3 +16,5 @@ The profile picture has been made with [triangulart](https://maxwellito.github.i
  /############################\      /############################\
  \############################/       /##########################\
 ```
+
+The profile picture has been made with [triangulart](https://maxwellito.github.io/triangulart/).
